@@ -1,0 +1,6 @@
+@E_learning_Platform_HostAddress = http://localhost:5023
+
+GET {{E_learning_Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
