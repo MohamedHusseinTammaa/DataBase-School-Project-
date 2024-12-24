@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "Nu+M5E4CRNSt0TjJ8+Xjf/bFTdJ6gpwwjmrb7RNtMP4=",
+  "Hash": "E45t/Lkr9J1FeUKSY5bsvp10WJ0hLD7czEjCNImlRpk=",
   "Source": "E-learning Platform",
   "BasePath": "_content/E-learning Platform",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
