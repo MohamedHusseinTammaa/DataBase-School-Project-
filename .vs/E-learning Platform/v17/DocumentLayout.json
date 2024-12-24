@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\c#\\DataBase-School-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\models\\elearningcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\models\\elearningcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\teacherscourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\teacherscourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\studentscourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\studentscourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\studentexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\studentexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\examquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\examquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|d:\\programming\\c#\\database-school-project\\e-learning platform\\repositories\\answerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEB89CF-6B87-4442-8909-C979782A0B04}|E-learning Platform\\E-learning Platform.csproj|solutionrelative:e-learning platform\\repositories\\answerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ELearningContext.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Models\\ELearningContext.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Models\\ELearningContext.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Models\\ELearningContext.cs",
+              "RelativeToolTip": "E-learning Platform\\Models\\ELearningContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:39:58.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:35:37.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:32:11.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:30.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeachersCourseRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\TeachersCourseRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\TeachersCourseRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\TeachersCourseRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\TeachersCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:30.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsCourseRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\StudentsCourseRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\StudentsCourseRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\StudentsCourseRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\StudentsCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentExamRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\StudentExamRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\StudentExamRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\StudentExamRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\StudentExamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:29.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:29.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\QuestionRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\QuestionRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\QuestionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:29.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExamQuestionRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\ExamQuestionRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\ExamQuestionRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\ExamQuestionRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\ExamQuestionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExamRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\ExamRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\ExamRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\ExamRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\ExamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:28.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\CourseRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnswerRepository.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\AnswerRepository.cs",
+              "RelativeDocumentMoniker": "E-learning Platform\\Repositories\\AnswerRepository.cs",
+              "ToolTip": "D:\\programming\\c#\\DataBase-School-Project\\E-learning Platform\\Repositories\\AnswerRepository.cs",
+              "RelativeToolTip": "E-learning Platform\\Repositories\\AnswerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:47:28.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
